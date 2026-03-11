@@ -1,1 +1,1 @@
-![My GitHub](https://github-readme-stats.vercel.app/api?username=retiredguitar64&count_private=true&show_icons=true&theme=buefy&include_all_commits=false)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RetiredGuitar64)](https://github.com/anuraghazra/github-readme-stats)
